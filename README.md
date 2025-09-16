@@ -1,2 +1,5 @@
 # InovaApp
 InovaApp
+VITE_API_URL=sua_url_da_api
+VITE_SUPABASE_URL=sua_url_do_supabase
+VITE_SUPABASE_ANON_KEY=sua_chave_anonima
